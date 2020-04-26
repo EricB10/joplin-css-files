@@ -2,7 +2,7 @@
 /* Styling for Dark Theme */
 
 
-/* Plain Texts */
+/* Plain Texts and LaTex */
 .ace_text.ace_xml {
 	color: honeydew !important;
 }
@@ -31,17 +31,17 @@
 
 /* Link and Image Texts */
 .ace_string {
-	color: royalblue !important;
+	color: dodgerblue !important;
 }
 
 /* Links and Images */
 .ace_markup.ace_underline {
-	color: royalblue !important;
+	color: dodgerblue !important;
 }
 
 /* Inline Codes and Codeblocks */
 .ace_support.ace_function {
-	color: cyan !important;
+	color: limegreen !important;
 }
 
 /* Checkboxes */
