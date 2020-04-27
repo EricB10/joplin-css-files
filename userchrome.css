@@ -31,17 +31,17 @@
 
 /* Link and Image Texts */
 .ace_string {
-	color: dodgerblue !important;
+	color: limegreen !important;
 }
 
 /* Links and Images */
 .ace_markup.ace_underline {
-	color: dodgerblue !important;
+	color: limegreen !important;
 }
 
 /* Inline Codes and Codeblocks */
 .ace_support.ace_function {
-	color: limegreen !important;
+	color: dodgerblue !important;
 }
 
 /* Checkboxes */
