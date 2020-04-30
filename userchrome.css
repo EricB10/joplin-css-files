@@ -4,7 +4,12 @@
 
 /* Plain Texts and LaTex */
 .ace_text.ace_xml {
-	color: honeydew !important;
+	color: aliceblue !important;
+}
+
+/* Checkboxes */
+.ace_variable {
+	color: aliceblue !important;
 }
 
 /* Headings */
@@ -14,40 +19,39 @@
 
 /* Stongs */
 .ace_string.ace_strong {
-	color: hotpink !important;
+	color: gold !important;
 	font-weight: bold !important;
 }
 
 /* Italics */
 .ace_string.ace_emphasis {
-	color: hotpink !important;
+	color: gold !important;
 	font-style: italic !important;
+}
+
+/* Line Breaks */
+.ace_constant.ace_language.ace_escape {
+	color: gold !important;
 }
 
 /* Lists and Checkboxes */
 .ace_list {
-	color: gold !important;
-}
-
-/* Link and Image Texts */
-.ace_string {
-	color: limegreen !important;
-}
-
-/* Links and Images */
-.ace_markup.ace_underline {
-	color: limegreen !important;
+	color: palegoldenrod !important;
 }
 
 /* Inline Codes and Codeblocks */
 .ace_support.ace_function {
+	color: limegreen !important;
+}
+
+/* Link and Image Texts */
+.ace_string {
 	color: dodgerblue !important;
 }
 
-/* Checkboxes */
-
-.ace_variable {
-	color: honeydew !important;
+/* Links and Images */
+.ace_markup.ace_underline {
+	color: dodgerblue !important;
 }
 
 /* Input Fields: Search (Global, Local), Note Title */
